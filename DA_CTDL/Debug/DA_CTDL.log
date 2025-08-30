@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  DA_CTDL.cpp
+D:\Download\NVD\c++\VS xanh\danh sach lop hoc\DA_CTDL\DA_CTDL.cpp(263,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/DA_CTDL.cpp')
+  
+D:\Download\NVD\c++\VS xanh\danh sach lop hoc\DA_CTDL\DA_CTDL.cpp(1794,24): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '/DA_CTDL.cpp')
+  
+D:\Download\NVD\c++\VS xanh\danh sach lop hoc\DA_CTDL\DA_CTDL.cpp(1417,1): warning C4715: 'Search': not all control paths return a value
+  DA_CTDL.vcxproj -> D:\Download\NVD\c++\VS xanh\danh sach lop hoc\Debug\DA_CTDL.exe

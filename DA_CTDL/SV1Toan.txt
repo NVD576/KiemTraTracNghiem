@@ -1,0 +1,36 @@
+Id : 5
+Noi dung : 3 + 3 bang bao nhieu ?
+Dap an A : 3
+Dap an B : 4
+Dap an C : 5
+Dap an D : 6
+Dap an dung : D
+Lua chon cua ban : D
+
+Id : 9
+Noi dung : 15 : 5 bang bao nhieu ?
+Dap an A : 3
+Dap an B : 4
+Dap an C : 5
+Dap an D : 6
+Dap an dung : A
+Lua chon cua ban : B
+
+Id : 11
+Noi dung : 6 - 3 bang bao nhieu ?
+Dap an A : 3
+Dap an B : 4
+Dap an C : 5
+Dap an D : 6
+Dap an dung : A
+Lua chon cua ban : A
+
+Id : 12
+Noi dung : 2 + 2 bang bao nhieu ?
+Dap an A : 3
+Dap an B : 4
+Dap an C : 5
+Dap an D : 6
+Dap an dung : B
+Lua chon cua ban : A
+

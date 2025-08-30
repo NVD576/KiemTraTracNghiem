@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\NVD\\c\u002B\u002B\\VS xanh\\danh sach lop hoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B39AA-0137-4006-88A4-DFD719FCAE1F}|DA_CTDL\\DA_CTDL.vcxproj|D:\\Download\\NVD\\c\u002B\u002B\\VS xanh\\danh sach lop hoc\\DA_CTDL\\DA_CTDL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4B39AA-0137-4006-88A4-DFD719FCAE1F}|DA_CTDL\\DA_CTDL.vcxproj|solutionrelative:DA_CTDL\\DA_CTDL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DA_CTDL.cpp",
+              "DocumentMoniker": "D:\\Download\\NVD\\c\u002B\u002B\\VS xanh\\danh sach lop hoc\\DA_CTDL\\DA_CTDL.cpp",
+              "RelativeDocumentMoniker": "DA_CTDL\\DA_CTDL.cpp",
+              "ToolTip": "D:\\Download\\NVD\\c\u002B\u002B\\VS xanh\\danh sach lop hoc\\DA_CTDL\\DA_CTDL.cpp",
+              "RelativeToolTip": "DA_CTDL\\DA_CTDL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T14:25:21.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
